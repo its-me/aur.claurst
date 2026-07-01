@@ -1,4 +1,5 @@
 # Maintainer: Sergey Kanafyev <sergeykanafyev@gmail.com>
+# Automation: https://github.com/its-me/aur.claurst
 
 pkgname=claurst
 pkgver=0.1.5
